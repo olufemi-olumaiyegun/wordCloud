@@ -4,7 +4,7 @@ Part of my 100Days of code projects, this project accepts a word file and create
 <br>
 -Make sure you have git installed
 <br>
--in your terminal run "git clone https://github.com/olufemi-olumaiyegn/wordCloud.git"
+-in your terminal run "git clone https://github.com/olufemi-olumaiyegun/wordCloud.git"
 <br>
 -Make sure you have python3 installed in your environment.
 <br>
